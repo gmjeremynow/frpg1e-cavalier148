@@ -1,0 +1,60 @@
+[
+ {
+  "_id": "9uaSAKEpcPQRj6jW",
+  "name": "Corrected Cavalier (Dragon #148)",
+  "pages": [
+   {
+    "_id": "zSOY4c3RzwsrgmFO",
+    "name": "The Class",
+    "type": "text",
+    "title": {
+     "show": true,
+     "level": 1
+    },
+    "text": {
+     "format": 1,
+     "content": "<p class=\"cv-src\">Source: David Howery, “The Corrected Cavalier,” Dragon #148 (August 1989), p.30-32. Restated in plain words; the numbers follow the article.</p>\n<p>Howery found the Unearthed Arcana cavalier too complicated and too powerful, and rebuilt it rather than throw it out. His cavalier is a warrior of noble birth, trained to fight on horseback and on foot and to lead soldiers. It follows a strict code of conduct, though cavaliers who are not lawful tend to ignore it. Not every noble warrior is a cavalier: some are paladins, rangers or ordinary fighters from noble families. The cavalier is now a subclass of the fighter, meant to stand level with the paladin and the ranger, not above them.</p>\n<h3>Who can be a cavalier</h3>\n<ul>\n<li><strong>Ability scores:</strong> strength, constitution and charisma of at least 13 each. The class has no prime requisite, so it never earns an experience bonus.</li>\n<li><strong>Social class:</strong> a roll of 56 or higher on the UA social class table (p.82), which means upper middle class or above. The same roll decides how much money the character starts with.</li>\n<li><strong>Race:</strong> humans, and elves or half-elves descended from gray, high or valley elves. Drow cannot be cavaliers, since horses are not used underground.</li>\n<li><strong>Alignment:</strong> any, at 1st level. A cavalier who changes alignment later suffers the normal penalties for doing so.</li>\n<li><strong>One class only:</strong> like barbarians, cavaliers cannot be multi-classed. Their skills come from training, not from alignment, so a cavalier can never be reduced to a plain fighter for misbehaving.</li>\n</ul>\n<h3>What stays the same as in Unearthed Arcana</h3>\n<ul>\n<li>The experience table, hit dice per level and level titles (UA p.15).</li>\n<li>The knack for judging what a horse is worth.</li>\n<li>The bonuses to lance damage, both mounted and on foot.</li>\n<li>Complete immunity to fear.</li>\n<li>Parrying with a shield or a hand weapon.</li>\n<li>Staying in the saddle and coming through unhurt when the mount goes down: 84%, plus 1% per level.</li>\n<li>The limits on how many henchmen the cavalier may have (UA p.75).</li>\n</ul>\n<h3>What is taken away</h3>\n<ul>\n<li>All alignment restrictions.</li>\n<li>The zero-level stages of horseman and lancer.</li>\n<li>The bonus 3 hit points at 1st level.</li>\n<li>The rises in strength, constitution and dexterity. A cavalier's scores are capped by race and sex like everyone else's.</li>\n<li>The aura of protection from fear.</li>\n<li>The 90% resistance to attacks on the mind, which the article calls the power that most unbalanced the class.</li>\n<li>The +2 on saving throws against illusions.</li>\n<li>Fighting on at negative hit points. A cavalier falls unconscious between 0 and −9, dies at −10, and heals at the usual rate.</li>\n<li>The obligation to charge every enemy in sight. Knights could be reckless, but they were trained to lead armies and would fall back from a fight they could not win.</li>\n</ul>"
+    }
+   },
+   {
+    "_id": "e9q0IQKSoAuANayv",
+    "name": "Weapons and Armor",
+    "type": "text",
+    "title": {
+     "show": true,
+     "level": 1
+    },
+    "text": {
+     "format": 1,
+     "content": "<p class=\"cv-src\">Source: David Howery, “The Corrected Cavalier,” Dragon #148 (August 1989), p.30-32. Restated in plain words; the numbers follow the article.</p>\n<h3>Fighting</h3>\n<p>Cavaliers attack and save on the fighter's tables. They cannot specialize in a weapon.</p>\n<h3>Preferred weapons</h3>\n<p>A cavalier must learn these before any other weapon: a lance of any kind; any sword except the short sword and the khopesh; the scimitar; the horseman's mace, flail and pick; the dagger; the hand axe; the javelin; and the bec de corbin. Elf and half-elf cavaliers may add the short bow or the short composite bow to the list.</p>\n<h3>Weapons of choice</h3>\n<p>All three weapon slots a cavalier has at 1st level go to weapons of choice, one from each group: a lance (any kind); a sword (any but the short sword, khopesh or two-handed sword) or a scimitar; and a horseman's mace, pick or flail. The article deletes the Unearthed Arcana rules on mounted combat bonuses with weapons of choice and uses these instead. Weapons learned after 1st level are never weapons of choice; the cavalier is simply proficient with them.</p>\n<p>A weapon of choice gives +1 to hit, or +2 if the cavalier is mounted. Attacks per round:</p>\n<table class='cv-ref'><tr><th>Level</th><th>Weapons of choice</th><th>Other proficient weapons</th></tr><tr><td>1-6</td><td>3/2</td><td>1/1</td></tr><tr><td>7-12</td><td>2/1</td><td>3/2</td></tr><tr><td>13+</td><td>5/2</td><td>2/1</td></tr></table>\n<h3>Proficiencies</h3>\n<ul>\n<li>At 1st level a cavalier has three weapon slots and two nonweapon slots. One more of each comes every three levels after 1st; the article gives “4th, 9th, etc.” as its examples.</li>\n<li>One of the two nonweapon slots at 1st level must be spent on riding, land-based (WSG p.16), for horses. This takes the place of the Unearthed Arcana riding abilities. Otherwise the cavalier may pick any nonweapon proficiencies.</li>\n</ul>\n<h3>Armor</h3>\n<p>Cavaliers will not wear leather, studded leather or padded armor, or carry a wooden shield. Otherwise they may wear any armor. In a large battle they put on the heaviest armor they can get, but on an adventure they are more sensible: a cavalier will not insist on plate mail in the desert.</p>"
+    }
+   },
+   {
+    "_id": "ZStbq0b8vLOKlGer",
+    "name": "Money, Training and Followers",
+    "type": "text",
+    "title": {
+     "show": true,
+     "level": 1
+    },
+    "text": {
+     "format": 1,
+     "content": "<p class=\"cv-src\">Source: David Howery, “The Corrected Cavalier,” Dragon #148 (August 1989), p.30-32. Restated in plain words; the numbers follow the article.</p>\n<h3>Starting money</h3>\n<p>Instead of the Unearthed Arcana starting equipment (UA p.25), a cavalier starts with gold set by the social class roll:</p>\n<table class='cv-ref'><tr><th>Social class roll</th><th>Funds</th></tr><tr><td>56-87</td><td>50-200 gp (5d4 × 10)</td></tr><tr><td>88-96</td><td>90-200 gp ((1d12 + 8) × 10)</td></tr><tr><td>97-99</td><td>101-200 gp (1d100 + 100)</td></tr><tr><td>00</td><td>155-200 gp (5d10 + 150)</td></tr></table>\n<h3>Background</h3><p>A cavalier is seldom an only child or the first-born (10% chance), because an heir would be kept at home to inherit the family lands. A cavalier who is an only child or the first-born has probably lost his parents, or they have lost their holdings, which pushed him into the uncertain life of an adventurer. The DM and player work out the details.</p>\n<h3>Training</h3>\n<p>Until 9th level, a cavalier needs training from another cavalier at least two levels higher, paying the usual fees.</p>\n<h3>Hospitality and the pennon</h3>\n<p>Other cavaliers offer no hospitality until the cavalier is a landholder, that is, until he has built a castle. Nor does the cavalier have to display a pennon or coat of arms before then, though he may fly a pennon at any time.</p>\n<h3>Followers</h3>\n<p>Henchmen follow the rules on UA p.75, but the cavalier followers on UA p.74-75 are not used. Instead, from 9th level, once the cavalier has built a castle or keep and cleared the country for 20-50 miles around it, these men-at-arms arrive. Every one is 0 level, has 5-8 hit points and shares the cavalier's alignment.</p>\n<ul>\n<li><strong>Light cavalry, 20-50:</strong> ring mail, shield, three javelins, light lance, scimitar (saber), light war horse.</li>\n<li><strong>Heavy cavalry, 10-40:</strong> chain mail, shield, broad sword, heavy lance, heavy war horse in chain barding.</li>\n<li><strong>Heavy infantry, 20-50:</strong> splint mail, pike, falchion.</li>\n<li><strong>Crossbowmen, 10-40:</strong> ring mail, heavy crossbow, falchion.</li>\n</ul>\n<p>They bring the retainers listed on UA p.75, except that two armigers take the places of the horseman and the lancer. Four 0-level craftsmen come too: an animal trainer for horses, an armorer, a blacksmith and a weaponsmith.</p>"
+    }
+   },
+   {
+    "_id": "pBTBO7ODViyH14xI",
+    "name": "Other Notes",
+    "type": "text",
+    "title": {
+     "show": true,
+     "level": 1
+    },
+    "text": {
+     "format": 1,
+     "content": "<p class=\"cv-src\">Source: David Howery, “The Corrected Cavalier,” Dragon #148 (August 1989), p.30-32. Restated in plain words; the numbers follow the article.</p>\n<h3>Paladins</h3>\n<p>The article warns against giving one character both cavalier and paladin powers, which makes a character far too strong. Paladins are played as written in the first edition Players Handbook. A special royal paladin is not needed, since the random social class roll already allows paladins of high birth.</p>\n<h3>BATTLESYSTEM</h3>\n<p>Cavaliers get +1 to their command radius on top of any other bonuses. Units they lead get +1 on their Discipline Rating and −1 on rally attempts (printed as a \"−1 bonus\"). These reflect the cavalier's training in leading soldiers.</p>\n<h3>Chivalry and knighthood</h3>\n<p>Both are now optional. A player cavalier is an independent adventurer whose skills come from military training, not from alignment or service. He may change alignment but not class, and need not be knighted, serve anyone or be sworn to any cause; the DM and players can add these if they like. The Unearthed Arcana code of chivalry leans heavily toward law and good, so chaotic cavaliers will chafe at it and evil ones will hardly offer cheerful service or courtesy. Following the code is the player's choice (the article adds “and incur all penalties for doing so”).</p>\n<h3>How this module handles it</h3>\n<ul>\n<li><strong>Weapons of choice:</strong> mark each one (lance, sword or horseman's weapon) on its weapon sheet. The Combat tab then adds +1 to hit, or +2 when Mounted is ticked, and shows the attacks per round.</li>\n<li><strong>Record tab notes:</strong> the sheet points out ability scores below 13, a race the article does not allow, a second class, and forbidden armor being worn. It never blocks anything.</li>\n<li><strong>Cavalier tab:</strong> enter the social class roll there, and roll the starting gold.</li>\n<li><strong>Mounted level bonus:</strong> in Unearthed Arcana (p.15), a human cavalier attacks from horseback as if one level higher. That rule sits under mounted combat and horsemanship, not under weapons of choice, and the article does not mention it, so it is a world setting, on by default.</li>\n</ul>"
+    }
+   }
+  ]
+ }
+]

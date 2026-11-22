@@ -1,0 +1,37 @@
+{
+  "id": "frpg1e-cavalier148",
+  "title": "Corrected Cavalier (Dragon #148) for 1e FRPG",
+  "description": "An optional cavalier class for 1e FRPG, based on David Howery's article \"The Corrected Cavalier\" (Dragon #148, August 1989): a fighter subclass that keeps weapons of choice, riding, fear immunity and the lance bonuses, and drops the UA cavalier's mind resistance, illusion bonus, fighting at negative hit points, ability increases and alignment rules. Rules restated in plain words. Adds a Cavalier tab and a rules compendium. Turn it on or off in Manage Modules.",
+  "version": "0.2.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Jeremy Clifford"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "frpg1e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.34.0"
+        },
+        "manifest": "https://github.com/gmjeremynow/frpg1e/releases/latest/download/system.json"
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/cavalier.mjs"
+  ],
+  "styles": [
+    "styles/cavalier.css"
+  ],
+  "library": false,
+  "url": "https://github.com/gmjeremynow/frpg1e-cavalier148",
+  "manifest": "https://github.com/gmjeremynow/frpg1e-cavalier148/releases/latest/download/module.json",
+  "download": "https://github.com/gmjeremynow/frpg1e-cavalier148/releases/download/v0.2.0/frpg1e-cavalier148.zip"
+}
